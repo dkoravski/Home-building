@@ -41,6 +41,11 @@ header .container {
     font-weight: bold;
 }
 
+.logo a {
+    color: white;
+    text-decoration: none;
+}
+
 nav ul {
     display: flex;
     list-style: none;
